@@ -22,7 +22,7 @@ Formatting
 
 All source code lines must not exceed 80 characters in length.
 
-***Rationale:*** Setting a maximum line length facilitates higher readability for the code within buffers of varying column width.
+***Rationale:*** Setting a maximum line length facilitates higher readability for the code within editor buffers of varying column width.
 
 ### Source Code Length Limit Per File: 500 Lines
 
